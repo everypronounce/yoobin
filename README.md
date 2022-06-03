@@ -1,5 +1,5 @@
-# 실행 gif
-![Hnet-image](https://user-images.githubusercontent.com/89966178/171851544-e417fb5f-2b4c-4900-b18a-514b43b8f2b5.gif)
+# 실행 영상
+https://youtube.com/shorts/uMK-l4upwRk?feature=share
 
 # 과정
 1. start 버튼 -> 스피킹 시작
