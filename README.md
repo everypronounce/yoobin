@@ -8,3 +8,6 @@ https://youtube.com/shorts/uMK-l4upwRk?feature=share
    (순서대로 hello -> apply is red -> nice to meet you 를 말했음)
 4. 사용자가 nice to meet you 를 말하면 결과 화면으로 이동
 5. finish 버튼 -> 앱을 종료...하지는 못함, 전 단계로 ㄱㄱ
+
+# 번외 (리액트 navigation만 구현)
+https://youtube.com/shorts/aZ1d-mPkRlQ?feature=share
