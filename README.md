@@ -2,6 +2,7 @@
 - firebase & JAVA
 - DB에 5개의 영어 문장을 저장한 후, 랜덤으로 화면에 출력한다.
 - firebase DB 주소: https://haniem-c3e23-default-rtdb.firebaseio.com/
+- ![image](https://user-images.githubusercontent.com/89966178/174227017-f93542d1-f163-4707-b3d7-b39521107342.png)
 
 # STT-Speaking
 - google stt & JAVA
